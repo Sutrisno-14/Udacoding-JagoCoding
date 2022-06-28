@@ -1,0 +1,8 @@
+Arahan  : 
+
+1. Database dengan nama db_sekolah.
+2. Panduan sebelum mulai membuat aplikasi ada pada Power point.
+3. Jika ingin menggunakan template yang sudah di setting, maka boleh kunjungi
+link github yang ada pada Power Point.
+
+Terima kasih, semoga bermanfaat.

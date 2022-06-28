@@ -219,7 +219,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                 </a>
               </li>
               <li class="nav-item">
-                <a href="index.php?halaman=kelas_xi&id=<?=$kelas['id_kelas']=3;?>" class="nav-link">
+                <a href="index.php?halaman=kelas_xii&id=<?=$kelas['id_kelas']=3;?>" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>XII MIPA</p>
                 </a>
@@ -266,7 +266,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                         include "kelas_x.php";
                     }else if($_GET['halaman']=='kelas_xi') {
                         include "kelas_xi.php";
-                    }else if($_GET['halaman']=='siswa_xii') {
+                    }else if($_GET['halaman']=='kelas_xii') {
                         include "kelas_xii.php";
                     }
                 }else {
